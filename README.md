@@ -1,4 +1,5 @@
 # 黑蘋果不支持 AMD 顯卡的修改教學
+---
 
 本指南旨在讓某些 AMD 顯卡在 Mac OS 中工作。目前，得知 XTX varint 的 6900XT 卡在 Mac OS Big Sur 和 Monterey 下運行良好。但是，目前不支持 6900XT 的 XTXH 變體，例如迪蘭恆進 RX 6900XT Ultimate（撰寫本指南時為 Mac OS Monterey 12.0.1）。
 
